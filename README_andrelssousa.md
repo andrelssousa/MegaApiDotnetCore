@@ -1,6 +1,5 @@
 ![Imagem do Megaman](./_docs/assets/iconAndreSousa.png)
 
-src="./_docs/assets/iconAndreSousa.png"
 # Megaman API
 
 ## Este projeto
