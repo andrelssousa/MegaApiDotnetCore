@@ -1,4 +1,4 @@
-![Imagem do Megaman](./_docs/assets/iconAndreSousa.png)
+![Imagem do Megaman](./_docs/assets/iconAndreSousa3.png)
 
 # Megaman API
 
